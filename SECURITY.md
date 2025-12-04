@@ -13,16 +13,14 @@ If you are using an older version, updating to the latest commit is strongly rec
 
 If you discover any vulnerabilities **within this repository’s code**, please report them responsibly.
 
-### How to Report a Vulnerability
+## Reporting Security Issues / Vulnerabilities
 
-1. Email: d_xlvii@protonmail.com
-2. Use the subject line: **"[SECURITY] Vulnerability Report"**
-3. Include:
-   - A clear description of the issue  
-   - Steps to reproduce  
-   - Potential impact  
-   - Suggested fixes (optional but appreciated)
+If you discover a bug, vulnerability, or unintended behavior in this repository:
 
+1. **Do NOT open a public issue** about security-sensitive topics.  
+2. **Contact me via GitHub** by opening a private discussion or private issue:  
+   - Navigate to my profile: https://github.com/pesohs  
+   - Open a private discussion or issue labeled `security`.  
 Please **do NOT** open public issues for security-related reports.  
 This prevents exploitation and protects users.
 
